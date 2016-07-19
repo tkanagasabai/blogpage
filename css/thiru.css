@@ -32,8 +32,8 @@ input.gsc-input,
 }
 
 input.gsc-search-button.gsc-search-button-v2 {
-    border-color: #00af8d !important;
-    background-color: #02c7a1 !important;
+    border-color: #00527e !important;
+    background-color: #006da6 !important;
 	background-image: none !important;
 }
 .gsc-control-cse {
@@ -43,10 +43,10 @@ input.gsc-search-button.gsc-search-button-v2 {
 }
 
 table.gsc-search-box {
-    border: 10px solid !important;
-    border-color: #18bc9c !important;
+	border: 10px solid !important;
+    border-color: #005d8d !important;
     margin: 0px !important;
-    background-color: #18bc9c !important;
+    background-color: #005d8d !important;
     padding: 0px !important;
 
 }
@@ -699,7 +699,7 @@ footer .footer-below {
     color: #fff;
     background-size: inherit;
     background-repeat: repeat;
-    background-color: #34bcdb;    
+    background-color: #159fd4;    
     background-image: url('../img/tile.png');
 	border-top: 8px solid #00487b;
 }
